@@ -1,0 +1,17 @@
+[
+  {
+    "iconName": "GitHub",
+    "link": "https://github.com/sharath-1517",
+    "iconLocation": "/github.png"
+  },
+  {
+    "iconName": "Twitter",
+    "link": "https://twitter.com/sharathlingams",
+    "iconLocation": "/twitter.png"
+  },
+  {
+    "iconName": "Email",
+    "link": "mailto:sharathlingam.s@gmail.com",
+    "iconLocation": "/email.png"
+  }
+]
